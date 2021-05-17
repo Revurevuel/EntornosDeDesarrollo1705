@@ -1,0 +1,15 @@
+Envíame un documento en el que me demuestres que sabes utilizar la herramienta, es decir:
+
+1- Crear un repositorio desde GitKraken y subirlo a GitHub
+
+2- Realizar una rama y realizar un merge sobre la rama main
+
+3- Subir los cambio a GitHub.
+
+4- Crear un Tag desde gitkraken y subirla al repositorio (esto te servirá para crear una versión de tu código)
+
+El documento sobre el que vas a realizar los cambios (para que te deje hacer commit) puede ser un simple fichero
+
+
+ de texto donde escribas los puntos que estas haciendo. 
+
